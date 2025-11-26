@@ -24,9 +24,9 @@ This notebook introduces color-space transformations. It reads an image, convert
 - Matplotlib
 
 #### Install the required libraries using:
-bash```
+```bash
 pip install opencv-python numpy matplotlib
-``
+```
 #### How to Run
 
 Clone the repository, open the notebooks in Jupyter Notebook or VSCode, and run the cells in order. Each notebook is self-contained and requires no additional files.
